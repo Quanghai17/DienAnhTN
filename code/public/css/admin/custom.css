@@ -1,0 +1,9 @@
+body, html {
+  color: #333;
+}
+
+.form-control,
+.panel-body .select2-selection {
+  border-color: #ccc;
+  color: #333;
+}

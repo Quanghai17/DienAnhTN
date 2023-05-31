@@ -1,0 +1,32 @@
+.slider-description{
+    color: #ffffff;
+}
+@media only screen and (min-width: 576px) {
+    .blog-details-wrap .media-left {
+        width: 50%;
+    }
+
+    .blog-details-wrap .media-body {
+        width: 50%;
+    }
+}
+.blog-style-2 .blog-right-content img{
+    width: 100%;
+}
+.blog-details-wrap .media-left img{
+    width: 100%;
+    height: auto;
+}
+
+.blog-details-wrap .post-description-1{
+    height: 82px;
+    overflow: hidden;
+}
+.blog-details-wrap .post-title-1{
+    height: 54px;
+    overflow: hidden;
+}
+.movie-post-slider .movie-post .entry-thumbnail img{
+    min-height: 200px;
+}
+
